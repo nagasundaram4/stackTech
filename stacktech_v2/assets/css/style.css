@@ -102,10 +102,10 @@ img.left {
 header .navbar .brand.logo {
   padding: 0;
   margin-left: 0;
-  margin-top: 15px;
+  margin-top: 6px;
 }
 header .navbar .brand.logo img{
-  width:250px;
+  width:335px;
 }
 /* header */
 
@@ -2083,7 +2083,7 @@ img.alignright {
   right: 0;
   top: 0;
   z-index: 999;
-  margin: 15px 20px 0 0;
+  margin: 30px 5px 0 0;
   border: 0;
   background: none;
   font-size: 24px;
@@ -2176,9 +2176,9 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 @media (max-width: 767px){
   .navbar .navbar-inner .container .logo {
-      padding-left: 40px;
-      padding-right: 20px;
-      padding-bottom: 4px;
+    padding-left: 21px;
+    width: 100%;
+    padding-right: 0px;
   }
   header .navbar .brand.logo {
     margin-top: 2px;
